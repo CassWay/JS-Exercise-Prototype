@@ -1,0 +1,4 @@
+References & Notes, 
+# --commits 
+
+-- initial commit, installs complete, added file; --setup tracking 
