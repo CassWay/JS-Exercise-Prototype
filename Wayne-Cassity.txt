@@ -2,3 +2,4 @@ References & Notes,
 # --commits 
 
 -- initial commit, installs complete, added file; --setup tracking 
+-- completed task1; --almost overthinking, reflective to what is being asked
