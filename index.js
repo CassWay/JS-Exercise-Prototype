@@ -57,6 +57,19 @@ Person.prototype.toString = function(){
   return `${this.name}, ${this.age}`
 }
 
+let consumer = new Person({
+  name: 'Ben',
+  age: 36
+});
+for (var i = 0; i < 12; i++){
+  consumer.eat('someFood')
+}
+console.log(consumer.stomach);
+
+consumer.poop()
+console.log(consumer.stomach);
+
+console.log(consumer.toString())
 /*
   TASK 2
     - Write a Car constructor that initializes `model` and `milesPerGallon` from arguments.
