@@ -5,3 +5,4 @@ References & Notes,
 -- completed task1; --almost overthinking, reflective to what is being asked
 -- completed task1 PASSED; with new Person & console-log, -- all good, toString-undefined 
 -- completed task2 + Stretch; distance/mpg formula, -- review drive function
+-- task3 complete; --toString still not working
