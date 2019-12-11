@@ -7,3 +7,4 @@ References & Notes,
 -- completed task2 + Stretch; distance/mpg formula, -- review drive function
 -- task3 complete; --toString still not working
 -- task4 complete; ALL PASSED + Stretch; -- reviewed code, adjusted attributes, - toString WORKING, redefined new ' - ALL Working 
+-- ALL Passed + Stretch; -- redefined small instances -- ALL Working
